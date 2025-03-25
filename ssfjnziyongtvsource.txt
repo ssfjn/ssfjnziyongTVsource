@@ -86,6 +86,7 @@ CCTV17,http://yc.myds.me:35455/gaoma/cctv17.m3u8
 CCTV17,http://yc.myds.me:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
+CCTV4k,https://stream1.freetv.fun/880cf2911be2cb89b60ce088e1727d834425895cf417ae5987247c2bd10659e7.m3u8
 CCTV4k,http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
 CCTV8k,https://stream1.freetv.fun/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.m3u8
 CGTN,http://yc.myds.me:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
