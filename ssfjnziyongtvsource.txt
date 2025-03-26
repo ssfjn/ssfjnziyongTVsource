@@ -20,6 +20,7 @@ CCTV4,http://yc.myds.me:35455/gaoma/cctv4.m3u8
 CCTV4,http://yc.myds.me:35455/itv/5000000011000031102.m3u8?cdn=bestzb
 CCTV4,http://yc.myds.me:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 CCTV5,https://stream1.freetv.fun/f0e7416846fd90750aa74c3141dd63b1feda4f0e09308a548ab284d8c1da639d.m3u8
+CCTV5,https://stream1.freetv.fun/cctv5-60.m3u8
 CCTV5,https://stream1.freetv.fun/78bd2a0636160a2286e0b01100dc4301202d4d1fc3c2f4ad73486049afc5f70b.m3u8
 CCTV5,http://yc.myds.me:35455/gaoma/cctv5.m3u8
 CCTV5,http://yc.myds.me:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
@@ -203,8 +204,9 @@ CGTNSP,http://yc.myds.me:35455/gaoma/cgtnsp.m3u8
 丽水庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 丽水松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 丽水遂昌综合,https://stream1.freetv.fun/76363d4ac1d313ca69697f84a138bbe6a0adb5d5ca96cd1462afe1842717dc0b.m3u8
+丽水遂昌综合,https://stream1.freetv.fun/76363d4ac1d313ca69697f84a138bbe6a0adb5d5ca96cd1462afe1842717dc0b.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-丽水景宁新闻,http://play-sh11.quklive.com/live/1644806967279134.m3u8
+丽水景宁综合,http://play-sh11.quklive.com/live/1644806967279134.m3u8
 
 //04温州市
 温州苍南新闻,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
