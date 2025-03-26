@@ -162,7 +162,7 @@ CGTNSP,http://yc.myds.me:35455/gaoma/cgtnsp.m3u8
 
 
 
-📺浙江ID20,#genre#
+📺浙江频道,#genre#
 
 //浙江
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
