@@ -19,7 +19,6 @@ CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/
 CCTV4,http://yc.myds.me:35455/gaoma/cctv4.m3u8
 CCTV4,http://yc.myds.me:35455/itv/5000000011000031102.m3u8?cdn=bestzb
 CCTV4,http://yc.myds.me:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
-CCTV5,https://stream1.freetv.fun/d375740fd4efa498a08a30f7856f08b0be6201fec9d5d8b5f4915f40cbc844d1.m3u8
 CCTV5,https://stream1.freetv.fun/f0e7416846fd90750aa74c3141dd63b1feda4f0e09308a548ab284d8c1da639d.m3u8
 CCTV5,https://stream1.freetv.fun/78bd2a0636160a2286e0b01100dc4301202d4d1fc3c2f4ad73486049afc5f70b.m3u8
 CCTV5,http://yc.myds.me:35455/gaoma/cctv5.m3u8
